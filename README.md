@@ -12,3 +12,7 @@ ORM (Object-Relational Mapping)
 ORM (Object-Relational Mapping) é uma técnica de programação que facilita a comunicação entre os objetos do software e os dados armazenados em bancos de dados relacionais. Pense no ORM como um adaptador que ajuda a encaixar peças de quebra-cabeça de diferentes formatos: ele permite que programadores manipulem os dados do banco como se fossem objetos naturais em seu código, simplificando o trabalho.
 
 Com o ORM, os desenvolvedores podem focar mais na lógica e funcionalidade do aplicativo, sem precisar se preocupar com linhas complexas de código SQL. Isso torna o processo mais intuitivo e eficiente, além de contribuir para a manutenção de dados seguros e bem organizados. Em resumo, o ORM facilita a vida dos desenvolvedores ao integrar perfeitamente o mundo dos objetos do software com os dados dos bancos de dados relacionais.
+
+Scripts:
+https://github.com/ErickBezerrar/bd2/blob/main/Tarefas/ORM/odbc.py
+https://github.com/ErickBezerrar/bd2/blob/main/Tarefas/ORM/orm.py
